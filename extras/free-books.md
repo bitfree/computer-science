@@ -1,6 +1,6 @@
 # Computer Science - Extra Resources
 
-## Courses
+## Free Books
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Math (Mathematical Thinking)](#math-mathematical-thinking)
@@ -32,11 +32,15 @@
 - [Big Data](#big-data)
 - [Data Mining](#data-mining)
 - [Internet of Things](#internet-of-things)
-- [Specializations](#specializations)
 
 ---
 
 ### Introduction to Computer Science
+
+Name | Author(s)
+:-- | :--:
+[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) | Hal Abelson, Jerry Sussman, Julie Sussman 
+[Introduction to Computing: Explorations in Language, Logic, and Machines](http://www.computingbook.org/) | David Evans
 
 ### Math (Mathematical Thinking)
 
@@ -52,6 +56,10 @@
 
 ### Math (Calculus)
 
+Name | Author(s)
+:-- | :--:
+[Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) | Silvanus P. Thompson 
+
 ### Software Architecture
 
 ### Theory
@@ -59,6 +67,10 @@
 ### Software Engineering
 
 ### Math (Probability)
+
+Name | Author(s) 
+:-- | :--: 
+[Grinstead and Snell’s Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) |Charles M. Grinstead, J. Laurie Snell
 
 ### Computer Architecture
 
@@ -78,6 +90,11 @@
 
 ### Compilers
 
+Name | Author(s)
+:-- | :--:
+[Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) | Niklaus Wirth 
+
+
 ### Parallel Computing
 
 ### UX Design
@@ -87,6 +104,10 @@
 ### Artificial Intelligence
 
 ### Machine Learning
+
+Name | Author(s)
+:-- | :--:
+[Deep Learning](http://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
 ### Natural Language Processing
 

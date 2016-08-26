@@ -1,6 +1,6 @@
 # Computer Science - Extra Resources
 
-## Books
+## Paid Courses
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Math (Mathematical Thinking)](#math-mathematical-thinking)
@@ -32,7 +32,6 @@
 - [Big Data](#big-data)
 - [Data Mining](#data-mining)
 - [Internet of Things](#internet-of-things)
-- [Specializations](#specializations)
 
 ---
 

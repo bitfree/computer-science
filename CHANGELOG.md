@@ -3,6 +3,111 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [5.0.0] 2016-08-20
+Due to removed course, we had the following updates:
+
+### Removed
+- Section: **Natural Language Processing**
+  - Natural Language Processing
+
+### Added
+- Section: **Natural Language Processing**
+  - Introduction to Natural Language Processing
+
+## [4.1.0] 2016-08-05
+Due to Coursera's platform changes, we had the following updates:
+### Fixed
+- Section: **Big Data**
+  - Introduction to Big Data
+
+## [4.0.0] 2016-07-30
+Due to Coursera's platform changes, we had the following updates:
+
+### Removed
+- Section: **Theory**
+  - Automata
+- Section: **Math (Linear Algebra)**
+  - Coding the Matrix: Linear Algebra through Computer Science Applications
+- Section: **Parallel Computing**
+  - Heterogeneous Parallel Programming
+- Section: **Natural Language Processing**
+  - Natural Language Processing
+
+### Fixed
+- Section: **Computer Networks**
+  - Computer Networks
+- Section: **Compilers**
+  - Compilers
+
+### Added
+- Section: **Theory**
+  - Intro to Theoretical Computer Science
+- Section: **Math (Linear Algebra)**
+  - Linear Algebra - Foundations to Frontiers
+- Section: **Parallel Computing**
+  - Parallel Computer Architecture and Programming
+- Section: **Natural Language Processing**
+  - Natural Language Processing
+
+## [3.0.0] 2016-05-04
+### Removed
+- Section: **Introduction to Computer Science**: 
+	- Introduction to Computer Science and Programming Using Python
+	- From Nand to Tetris (Part 1)
+
+### Added
+- Section: **Introduction to Computer Science**: 
+	- Introduction to Computer Science - CS50
+
+## [2.0.1] 2016-04-04
+### Fixed
+- Now students should enroll through our [web app](https://ossu.firebaseapp.com).
+
+## [2.0.0] 2016-03-17
+### Fixed
+- Program Design section course's names and links
+
+### Removed
+- **Introduction to Computer Science**: 
+	- Introduction to Computer Science
+	- Introduction to Computational Thinking and Data Science
+- **Algorithms**
+	- Analysis of Algorithms
+- **Programming Paradigms**
+	- Principles of Reactive Programming
+- **Math (Calculus)**
+	- Multivariable Calculus
+- **Software Architecture**: 
+	- Web Application Architectures
+- **Software Engineering**: 
+	- Agile Development Using Ruby on Rails - Basics
+	- Agile Development Using Ruby on Rails - Advanced
+	- Startup Engineering
+- **Computer Architecture**: 
+	- The Hardware/Software Interface
+- **Operating Systems**: 
+	- Operating System Engineering
+- **Computer Networks**: 
+	- Introduction to Computer Networking
+- **Cryptography**: 
+	- Applied Cryptography
+
+**ps**: These removed courses are now in the [extras](https://github.com/open-source-society/computer-science/tree/master/extras) section.
+
+## [1.3.12] 2016-03-17
+### Added
+- How to collaborate: send new links to the extras section
+
+## [1.3.11] 2016-03-06
+### Fixed
+- Nand to Tetris: change name and url
+- UC Berkeley Agile development: change name and url
+- Direct links to specializations
+
+## [1.3.10] 2016-03-06
+### Fixed
+- Link from Systematic Program Design Part 2 course
+
 ## [1.3.9] 2015-11-09
 ### Fixed
 - Link for the correct Natural Language Processing course
